@@ -63,4 +63,8 @@ $ zet pack
 
 Your packed files will be located in the `dist` folder. Upload the generated file in Zoho CRM, and you're all set!
 
+
+If you're curious about incorporating React into your widgets, You can find a demonstration [here](https://github.com/Athulpreman/React-project-zipping)
+
+
 Happy Coding!!! 🚀
